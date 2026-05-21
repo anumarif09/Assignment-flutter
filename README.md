@@ -124,12 +124,11 @@ The application is divided into:
 Screenshots
 
 
-<img width="1679" height="877" alt="image" src="https://github.com/user-attachments/assets/334fbb6b-436f-47b0-a8ca-28097244df00" />
+
 
 <img width="1669" height="877" alt="image" src="https://github.com/user-attachments/assets/1ce052cc-9fb5-4bce-8b53-4e8b2ef3f916" />
 
 
-<img width="1657" height="877" alt="image" src="https://github.com/user-attachments/assets/5578df3e-1d74-47fc-b39f-73a4b458256a" />
 
 
 
@@ -177,4 +176,4 @@ This project is created for educational and learning purposes only.
 
 # ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub.<img width="957" height="455" alt="image" src="https://github.com/user-attachments/assets/cf19eecc-eee7-4be4-a432-0352353cb19d" />
+If you like this project, give it a ⭐ on GitHub.
