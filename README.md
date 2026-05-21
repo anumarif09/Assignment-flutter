@@ -3,9 +3,8 @@
 A modern Flutter mobile application developed as an academic assignment project using Flutter and Dart.  
 This project demonstrates clean UI implementation, responsive layouts, reusable widgets, and scalable project structure.
 
-
-Group Members
-Anum Arif
+Member
+Anum Arif 2380227
 
 ---
 
@@ -123,10 +122,7 @@ The application is divided into:
 
 Screenshots
 
-
-
-
-<img width="1669" height="877" alt="image" src="https://github.com/user-attachments/assets/1ce052cc-9fb5-4bce-8b53-4e8b2ef3f916" />
+<img width="1679" height="877" alt="image" src="https://github.com/user-attachments/assets/8b9cb89c-b8fe-4d65-bf76-73c963da14c0" />
 
 
 
